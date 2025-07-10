@@ -5,7 +5,7 @@ description: "60% Keyboard with macro keys"
 created_at: "2025-7-7"
 ---
 
-**Total Time Spent: 8h**
+**Total Time Spent: 13h**
 
 # Layout Design
 I started off this project by designing the layout. Its basically a 60% layout, as my intent with this keyboard is to keep it very usable but also compact. I used keyboard-layout-editor.com to designt the layout, working mostly off the basic 60% layout. I think that this layout should be a good balance between the massive 100% keyboards and the tiny split keyboards, as it has most of the common keys without having random useless keys. Im using MX switches from Akko for this build, as they are a good budget option, with great sound and feel. 
@@ -49,4 +49,14 @@ In this session I completed the routing of the PCB. Im pretty happy with how it 
 Full routed board!
 
 **Time Spent: 3h**
+
+# Final Touches on PCB
+
+I added the rounded corners and the groundfill in this session. I had to make the edgecuts a bit larger to allow for the mounting holes, but overall its still pretty compact. Im not sure if I have enough mounting holes, so Im going to get some feedback from the community about it. Overall the PCB looks really nice and Im super proud of it. Im going to make the case next, and Ill try to make a prototype of everything to make sure it fit. Im not using a ground plane, just a normal copper fill that isnt connected to anything, as I wont be using much ground on the PCB. I routed the battery connector, a JST XH 2 pin, to the Nice!Nano as well, which should go into the rest of the board and get charged through the USB C. Im not sure which size battery I want yet, but Im planning something fairly large so the battery life is good. 
+
+![image](https://github.com/user-attachments/assets/82e4449b-c989-4cbb-8e82-5f019e8ab71a)
+
+Heres what the PCB looks like with the ground plane added. I will need to change around some silkscreen stuff (as well as adding some fun art) but it shouldnt change much from here. Im really happy with how clean this is!
+
+**Time Spent: 2h**
 
