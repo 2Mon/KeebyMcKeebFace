@@ -35,3 +35,18 @@ Once I fixed some stupid mistakes, I started arranging the switches. I used a pl
 And here is the layout in the PCB editor. I connected the rows and columns already, and started connecting them to the MCU. Im trying to keep it very simple, using the minimum amount of VIAs and complex connections. 
 
 **Time Spent: 6h**
+
+# Routing
+
+In this session I completed the routing of the PCB. Im pretty happy with how it came out! I especially like this part, which is wiring all the columns to the Nice!Nano. I tried to use the fewest vias possible, and currnely its sitting at four on the whole board. I still need to round the corners and add a ground plane, but so far this is going very well. Ive attatched an image of the collumn connection and a full schematic image. 
+
+![image](https://github.com/user-attachments/assets/295db0ed-8505-4fc4-94e9-149af4b3c99d)
+
+^ This is the nicest thing ive ever made in kicad
+
+![image](https://github.com/user-attachments/assets/66762d78-79a3-41d2-8126-7921bd7e0b07)
+
+Full routed board!
+
+**Time Spent: 3h**
+
