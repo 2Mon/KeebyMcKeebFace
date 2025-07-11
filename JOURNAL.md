@@ -60,3 +60,17 @@ Heres what the PCB looks like with the ground plane added. I will need to change
 
 **Time Spent: 2h**
 
+# Beginning The Case
+
+In this session I started designing the case for the keyboard. Im doing a sandwich mount, which means that the plate is sandwiched between the top and bottom of the plate. It also has some screws going through it so it should be very secure. The main body is currently very simple, but I plan to make it more fun with some angles and decorative bits. I might use my multi color printer to add a fun design to it, but that will be more expensive. I feel like its very boring right now. I still need to add a cutout for the USB C port and the slot for the battery, but that shouldnt take too long. 
+
+<img width="954" height="241" alt="image" src="https://github.com/user-attachments/assets/a5ff1dba-c079-451a-a5c5-69c62f4410f0" />
+
+Heres the sandwich mount. Basically the plate is squished between the top of the frame and the bottom of the frame. I still need to add some mounting spots at the bottom of the case to mount the PCB to, as the sandwich alone wont be rigid enough. This mounting style is very nice, as its simple and allows for a lot of customizability in the plate and case.
+
+<img width="1209" height="663" alt="image" src="https://github.com/user-attachments/assets/25607245-4e1a-4990-80f3-052fd76b7419" />
+
+This is the full case so far. As you can see, its pretty boring. Im going to spend a majority of the rest of my time on this project making this nicer.
+
+
+
