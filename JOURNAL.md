@@ -5,7 +5,7 @@ description: "60% Keyboard with macro keys"
 created_at: "2025-7-7"
 ---
 
-**Total Time Spent: 13h**
+**Total Time Spent: 16h**
 
 # Layout Design
 I started off this project by designing the layout. Its basically a 60% layout, as my intent with this keyboard is to keep it very usable but also compact. I used keyboard-layout-editor.com to designt the layout, working mostly off the basic 60% layout. I think that this layout should be a good balance between the massive 100% keyboards and the tiny split keyboards, as it has most of the common keys without having random useless keys. Im using MX switches from Akko for this build, as they are a good budget option, with great sound and feel. 
@@ -72,5 +72,5 @@ Heres the sandwich mount. Basically the plate is squished between the top of the
 
 This is the full case so far. As you can see, its pretty boring. Im going to spend a majority of the rest of my time on this project making this nicer.
 
-
+**Time Spent: 3h**
 
