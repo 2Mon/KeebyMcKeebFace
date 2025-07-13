@@ -1,7 +1,7 @@
 ---
 title: "KeebyMcKeebFace"
 author: "1Mon"
-description: "60% Keyboard with macro keys"
+description: "60% Keyboard"
 created_at: "2025-7-7"
 ---
 
