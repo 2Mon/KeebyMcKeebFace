@@ -5,7 +5,7 @@ description: "60% Keyboard with macro keys"
 created_at: "2025-7-7"
 ---
 
-**Total Time Spent: 16h**
+**Total Time Spent: 20h**
 
 # Layout Design
 I started off this project by designing the layout. Its basically a 60% layout, as my intent with this keyboard is to keep it very usable but also compact. I used keyboard-layout-editor.com to designt the layout, working mostly off the basic 60% layout. I think that this layout should be a good balance between the massive 100% keyboards and the tiny split keyboards, as it has most of the common keys without having random useless keys. Im using MX switches from Akko for this build, as they are a good budget option, with great sound and feel. 
@@ -74,3 +74,16 @@ This is the full case so far. As you can see, its pretty boring. Im going to spe
 
 **Time Spent: 3h**
 
+# Making The Case Nice
+
+I spent this session making the case look a lot nicer, while adding some important features. First, I made the bottom of the keyboard slighly slanted to make it a little more comfortable to use. I then added a big cutout for the USB-C cable. I might have made it too big, but I want to make sure there is plenty of clearance around the cable. I also added all the switches to make sure everything lined up right. I added some spots for heatset inserts and holes for the heads of the bolts, which should make assembly simple. I also made sure to add some spots on the bottom to put some silicone feet, as I dont want it shifting around on my desk.
+
+<img width="1176" height="696" alt="image" src="https://github.com/user-attachments/assets/8c3c16d7-b0a2-48ef-ba60-e087f67a4b2b" />
+
+Here's the current case design. Its still very simple, and doesnt have a spot for the battery yet, but should work pretty well. 
+
+<img width="1439" height="432" alt="image" src="https://github.com/user-attachments/assets/303e0538-d4bf-4942-afe5-e3549a53f14c" />
+
+And heres a section view of the case. Starting at the bottom, you can see the base, plate, and top, all sandwiched together with screws. 
+
+**Time Spent: 4h**
